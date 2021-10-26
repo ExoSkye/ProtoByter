@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**ProtoByter/ProtoByter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is ProtoByter (or Bob) and I am currently in high school (UK)
 
-Here are some ideas to get you started:
+#### Fact about me
+- I'm autistic
+- I'm a furry
+- I'm a software developer (duh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Programming languages I use mostly
+- C
+- C++
+- Rust
+- Python
+
+#### My projects
+https://trello.com/b/SNqK748s/projects
