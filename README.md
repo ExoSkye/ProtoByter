@@ -1,6 +1,6 @@
-### Hi there :wave:
+### Hi there!
 
-My name is ProtoByter (or Bob) and I am currently in secondary school (UK)
+My name is ProtoByter (or Kai) and I am currently in secondary school (UK). I'm also non-binary! (they/them).
 
 #### Fact about me
 - I'm autistic
@@ -20,6 +20,3 @@ My name is ProtoByter (or Bob) and I am currently in secondary school (UK)
 - C (since 2020)
 - Rust (since 2020)
 - Kotlin/Java (since 2021)
-
-#### My projects
-https://trello.com/b/SNqK748s/projects
